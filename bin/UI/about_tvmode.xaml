@@ -1,0 +1,22 @@
+﻿<Window x:Name="layouttvmodeabout" x:Class="about_tvmode"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TV_OS_Project"
+        mc:Ignorable="d"
+        Title="about_tvmode" Height="490" Width="384" Background="#CCFFFFFF" AllowsTransparency="True" WindowStyle="None" WindowStartupLocation="CenterScreen" Topmost="True">
+    <Window.Effect>
+        <DropShadowEffect/>
+    </Window.Effect>
+    <Grid>
+        <Image Height="205" Margin="65,35,64,0" VerticalAlignment="Top" Source="tvos.png">
+            <Image.Effect>
+                <DropShadowEffect Opacity="0.6"/>
+            </Image.Effect>
+        </Image>
+        <Label Content="Open source tv os project  powerd by kairo" HorizontalAlignment="Left" Margin="75,265,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="fch" Content="Fechar" HorizontalAlignment="Left" Margin="150,320,0,0" VerticalAlignment="Top" Width="75" Background="White" BorderBrush="White" Height="35"/>
+
+    </Grid>
+</Window>

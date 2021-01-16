@@ -1,0 +1,26 @@
+﻿<Window x:Name="splash" x:Class="ytsplash"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TV_OS_Project"
+        mc:Ignorable="d"
+        Title="ytsplash" Height="1080" Width="1920" AllowsTransparency="True" WindowStyle="None" WindowState="Maximized" Topmost="True">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Image Margin="0,330,850,545" Source="play_button_100px.png" Stretch="Fill" Grid.ColumnSpan="2" HorizontalAlignment="Right" Width="220">
+            <Image.Effect>
+                <DropShadowEffect Opacity="0.6"/>
+            </Image.Effect>
+        </Image>
+        <Label Content="Youtube TV" Margin="0,935,895,0" Height="60" VerticalAlignment="Top" RenderTransformOrigin="5.255,-1.115" Grid.ColumnSpan="2" FontSize="20" FontWeight="Bold" HorizontalAlignment="Right" Width="120">
+            <Label.Effect>
+                <DropShadowEffect Opacity="0.3"/>
+            </Label.Effect>
+        </Label>
+
+    </Grid>
+</Window>

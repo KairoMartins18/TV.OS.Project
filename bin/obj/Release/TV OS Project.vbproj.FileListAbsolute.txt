@@ -1,0 +1,52 @@
+C:\Users\kairo\source\repos\TV OS Project\bin\Release\TV OS Project.exe.config
+C:\Users\kairo\source\repos\TV OS Project\bin\Release\TV OS Project.exe
+C:\Users\kairo\source\repos\TV OS Project\bin\Release\TV OS Project.pdb
+C:\Users\kairo\source\repos\TV OS Project\bin\Release\TV OS Project.xml
+C:\Users\kairo\source\repos\TV OS Project\bin\Release\VirtualKeyboard.Wpf.dll
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\TV OS Project.vbprojAssemblyReference.cache
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\UI\about_tvmode.g.vb
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\UI\Keyboard.g.vb
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\UI\MainWindow.g.vb
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\UI\ytsplash.g.vb
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\Application.g.vb
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\TV OS Project_MarkupCompile.cache
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\TV OS Project_MarkupCompile.lref
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\Application.baml
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\UI\about_tvmode.baml
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\UI\Keyboard.baml
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\UI\MainWindow.baml
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\UI\ytsplash.baml
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\TV OS Project.g.resources
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\TV_OS_Project.Resources.resources
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\TV OS Project.vbproj.GenerateResource.cache
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\TV OS Project.vbproj.CoreCompileInputs.cache
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\TV OS Project.vbproj.CopyComplete
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\TV OS Project.exe
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\TV OS Project.xml
+C:\Users\kairo\source\repos\TV OS Project\obj\Release\TV OS Project.pdb
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\bin\Release\TV OS Project.exe.config
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\bin\Release\TV OS Project.exe
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\bin\Release\TV OS Project.pdb
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\bin\Release\TV OS Project.xml
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\bin\Release\VirtualKeyboard.Wpf.dll
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\TV OS Project.vbprojAssemblyReference.cache
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\UI\about_tvmode.g.vb
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\UI\Keyboard.g.vb
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\UI\MainWindow.g.vb
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\UI\ytsplash.g.vb
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\Application.g.vb
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\TV OS Project_MarkupCompile.cache
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\TV OS Project_MarkupCompile.lref
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\Application.baml
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\UI\about_tvmode.baml
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\UI\Keyboard.baml
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\UI\MainWindow.baml
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\UI\ytsplash.baml
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\TV OS Project.g.resources
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\TV_OS_Project.Resources.resources
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\TV OS Project.vbproj.GenerateResource.cache
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\TV OS Project.vbproj.CoreCompileInputs.cache
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\TV OS Project.vbproj.CopyComplete
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\TV OS Project.exe
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\TV OS Project.xml
+C:\Users\kairo\OneDrive\Documentos\GitHub\TV.OS.Project\obj\Release\TV OS Project.pdb

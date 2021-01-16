@@ -1,0 +1,113 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TV OS Project
+</name>
+</assembly>
+<members>
+<member name="T:TV_OS_Project.My.MyWpfExtension">
+ <summary>
+ Módulo utilizado para definir as propriedades que estão disponíveis no My Namespace para WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:TV_OS_Project.My.MyWpfExtension.Application">
+ <summary>
+ Retorna o objeto de aplicação para a aplicação em execução
+ </summary>
+</member>
+<member name="P:TV_OS_Project.My.MyWpfExtension.Computer">
+ <summary>
+ Retorna informação sobre o computador hospedeiro.
+ </summary>
+</member>
+<member name="P:TV_OS_Project.My.MyWpfExtension.User">
+ <summary>
+ Retorna informação sobre o usuário atual.  Se você deseja executar a aplicação com as credenciais 
+ do usuário Windows atual, utilize o método My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:TV_OS_Project.My.MyWpfExtension.Log">
+ <summary>
+ Retorna o log da aplicação. Os ouvintes podem ser configurados pelo arquivo de configuração da aplicação.
+ </summary>
+</member>
+<member name="P:TV_OS_Project.My.MyWpfExtension.Windows">
+ <summary>
+ Retorna a coleção de Janelas definida no projeto.
+ </summary>
+</member>
+<member name="T:TV_OS_Project.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:TV_OS_Project.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:TV_OS_Project.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="T:TV_OS_Project.ytsplash">
+<summary>
+ytsplash
+</summary>
+</member>
+<member name="M:TV_OS_Project.ytsplash.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:TV_OS_Project.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:TV_OS_Project.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:TV_OS_Project.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:TV_OS_Project.about_tvmode">
+<summary>
+about_tvmode
+</summary>
+</member>
+<member name="M:TV_OS_Project.about_tvmode.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:TV_OS_Project.Keyboard">
+<summary>
+Keyboard
+</summary>
+</member>
+<member name="M:TV_OS_Project.Keyboard.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:TV_OS_Project.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:TV_OS_Project.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

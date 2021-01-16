@@ -1,0 +1,26 @@
+C:\Users\kairo\source\repos\TV OS Project\bin\Debug\TV OS Project.exe.config
+C:\Users\kairo\source\repos\TV OS Project\bin\Debug\TV OS Project.exe
+C:\Users\kairo\source\repos\TV OS Project\bin\Debug\TV OS Project.pdb
+C:\Users\kairo\source\repos\TV OS Project\bin\Debug\TV OS Project.xml
+C:\Users\kairo\source\repos\TV OS Project\bin\Debug\VirtualKeyboard.Wpf.dll
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\TV OS Project.vbprojAssemblyReference.cache
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\UI\about_tvmode.g.vb
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\UI\Keyboard.g.vb
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\UI\MainWindow.g.vb
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\UI\ytsplash.g.vb
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\Application.g.vb
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\TV OS Project_MarkupCompile.cache
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\TV OS Project_MarkupCompile.lref
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\Application.baml
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\UI\about_tvmode.baml
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\UI\Keyboard.baml
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\UI\MainWindow.baml
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\UI\ytsplash.baml
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\TV OS Project.g.resources
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\TV_OS_Project.Resources.resources
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\TV OS Project.vbproj.GenerateResource.cache
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\TV OS Project.vbproj.CoreCompileInputs.cache
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\TV OS Project.vbproj.CopyComplete
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\TV OS Project.exe
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\TV OS Project.xml
+C:\Users\kairo\source\repos\TV OS Project\obj\Debug\TV OS Project.pdb
